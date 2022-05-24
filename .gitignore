@@ -32,3 +32,5 @@ info.json
 # Sed trash
 *.yaml-e
 *.tmpl-e
+
+vendor
