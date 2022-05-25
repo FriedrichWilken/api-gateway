@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	github.com/go-logr/logr v1.2.0
-	github.com/kyma-incubator/api-gateway/api v0.0.0-unpublished
+	github.com/kyma-incubator/api-gateway/api/v1alpha1 v0.0.0-unpublished
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.18.1
 	github.com/ory/oathkeeper-maester v0.1.0
@@ -17,4 +17,4 @@ require (
 	sigs.k8s.io/controller-runtime v0.12.1
 )
 
-replace github.com/kyma-incubator/api-gateway/api v0.0.0-unpublished => ./api
+replace github.com/kyma-incubator/api-gateway/api/v1alpha1 v0.0.0-unpublished => ./api
