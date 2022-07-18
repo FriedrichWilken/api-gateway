@@ -6,7 +6,7 @@ require (
 	github.com/go-logr/logr v1.2.0
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.19.0
-	github.com/ory/oathkeeper-maester v0.1.6
+	github.com/ory/oathkeeper-maester v0.1.7
 	github.com/pkg/errors v0.9.1
 	istio.io/api v0.0.0-20211213163208-276abc55e8b6
 	istio.io/client-go v1.12.2
