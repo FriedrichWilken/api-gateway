@@ -10,9 +10,9 @@ require (
 	github.com/pkg/errors v0.9.1
 	istio.io/api v0.0.0-20211213163208-276abc55e8b6
 	istio.io/client-go v1.12.2
-	k8s.io/api v0.24.2
-	k8s.io/apimachinery v0.24.2
-	k8s.io/client-go v0.24.2
+	k8s.io/api v0.24.3
+	k8s.io/apimachinery v0.24.3
+	k8s.io/client-go v0.24.3
 	sigs.k8s.io/controller-runtime v0.12.2
 )
 
